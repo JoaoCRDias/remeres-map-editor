@@ -1,5 +1,10 @@
 <?xml version="1.0"?>
 <npcs>
+	<npc name="Exercise Weapons" looktype="141" lookitem="0" lookaddon="0" lookhead="60" lookbody="22" looklegs="24" lookfeet="32" />
+	<npc name="Rings and Amulets" looktype="141" lookitem="0" lookaddon="0" lookhead="60" lookbody="22" looklegs="24" lookfeet="32" />
+	<npc name="Old Merchant" looktype="140" lookitem="0" lookaddon="0" lookhead="60" lookbody="22" looklegs="24" lookfeet="32" />
+	<npc name="Equipement Seller" looktype="140" lookitem="0" lookaddon="0" lookhead="60" lookbody="22" looklegs="24" lookfeet="32" />
+	<npc name="Supplier" looktype="140" lookitem="0" lookaddon="0" lookhead="60" lookbody="22" looklegs="24" lookfeet="32" />
 	<npc name="..." looktype="294" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="A Bearded Woman" looktype="140" lookitem="0" lookaddon="0" lookhead="60" lookbody="22" looklegs="24" lookfeet="32" />
 	<npc name="A Beautiful Girl" looktype="140" lookitem="0" lookaddon="0" lookhead="77" lookbody="81" looklegs="79" lookfeet="95" />

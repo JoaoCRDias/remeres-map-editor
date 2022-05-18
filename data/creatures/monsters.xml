@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monsters>
+	<monster name="Ancient Lion Knight" looktype="1317" lookhead="0" lookbody="78" looklegs="57" lookfeet="57" lookaddons="2" />
+	<monster name="Drume" looktype="1317" lookhead="0" lookbody="78" looklegs="57" lookfeet="57" lookaddons="2" />
+	<monster name="Training Monk" looktype="225" />
     <monster name="A Carved Stone Tile" looktype="0" />
     <monster name="A Shielded Astral Glyph" looktype="0" />
     <monster name="Abyssador" looktype="495" />
@@ -239,6 +242,7 @@
     <monster name="Dark Knowledge" looktype="1061" />
     <monster name="Dark Magician" looktype="133" lookhead="116" lookbody="95" looklegs="50" lookfeet="132" lookaddons="2" />
     <monster name="Dark Monk" looktype="225" />
+
     <monster name="Dark Paladin" looktype="129" lookhead="95" lookbody="95" looklegs="95" lookfeet="95" lookaddons="1" />
     <monster name="Dark Percht Sleigh" looktype="1165" />
     <monster name="Dark Sorcerer" looktype="130" lookhead="95" lookbody="95" looklegs="95" lookfeet="95" lookaddons="3" />
